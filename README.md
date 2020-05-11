@@ -1,2 +1,3 @@
 # Mirket
-La app Mirket, desarrollada por el grupo Sopaipilla, es un software de administración de minimarkets, diseñada para los ramos de ingeniería de software y HCI. 
+La app Mirket, desarrollada por el grupo Sopaipilla. El grupo sopaipilla está compuesto por Tamara Badilla, Álvaro Valverde y Benito Hermosilla.
+Mirket es un software de administración de minimarkets, diseñada para los ramos de ingeniería de software y HCI. 
